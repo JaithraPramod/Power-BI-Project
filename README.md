@@ -53,6 +53,7 @@ Insights:
 -Outerwear contributes the lowest sales.
 
 ### page2:product Performance Analysis
+<img width="1375" height="706" alt="Screenshot 2026-06-27 145421" src="https://github.com/user-attachments/assets/26a3622c-5202-4460-8ad6-db40947ac825" />
 
 This page focuses on individual product performance.
 Visualizations:
@@ -67,6 +68,7 @@ Insights:
 -Product performance can be compared using sales and ratings.
 
 ### page3:Customer Demographics & Payment Analysis
+<img width="1381" height="690" alt="Screenshot 2026-06-27 145451" src="https://github.com/user-attachments/assets/9df5d7b5-ce63-4bec-99a0-a19c7c89fa80" />
 
 This page analyzes customer demographics, payment methods, and locations.
 
