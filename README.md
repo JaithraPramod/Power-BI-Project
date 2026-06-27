@@ -30,6 +30,8 @@ Data Modeling
 Data Visualization
 
 ### Page 1: Customer Overview Dashboard
+<img width="1386" height="706" alt="Screenshot 2026-06-27 144646" src="https://github.com/user-attachments/assets/1138bf40-b253-4f01-9c8a-9ebe7d0f3d76" />
+
 This page provides an overall summary of customer purchasing behavior.
 
 Key KPIs:
